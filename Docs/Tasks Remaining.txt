@@ -1,0 +1,10 @@
+student table e student regis er info dekhano baki ache.
+
+courseStatistics er false/true er problemc solve korte hobe.
+
+
+ultapalta time check kkorte hobe
+(from boro to choto)
+
+AllocateClassrooms er validation baki ase
+

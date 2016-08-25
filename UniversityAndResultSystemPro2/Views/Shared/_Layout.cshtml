@@ -1,0 +1,352 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <title>@ViewBag.Title - University Course and Result Management System</title>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+
+
+    <link href="~/Content/style.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+
+    <link href="~/Content/jquery-ui.css" rel="stylesheet" />
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <style>
+        label.error {
+            color: firebrick;
+            font-weight: normal;
+       
+           
+        }
+    </style>
+
+    <script type="application/x-javascript">
+        addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); }>
+    </script>
+    <script src="~/Scripts/move-top.js"></script>
+    <script src="~/Scripts/easing.js"></script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({ scrollTop: $(this.hash).offset().top }, 1000);
+            });
+        });
+    </script>
+</head>
+<body style="padding-bottom: 0px;">
+    @*<div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Application name", "Index", "Home", null, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    </ul>
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
+        </div>*@
+
+    <div class="mother-grid">
+        <div class="container">
+            <div class="temp-padd" style="border-radius: 15px;">
+                <div class="top-strip " style="border-radius: 15px;">
+                    <img src="~/images/logoUni2.png" style="width: 88px; height: 92px; float: left; margin-left: 8px;" />
+                    <h1 style="font-size: 32px;">University Course and Result Management System</h1>
+
+                    <div class="clearfix"> </div>
+                </div>
+                <!--top nav end here-->
+                <!--title start here-->
+                <div class="title-main">
+
+
+                </div>
+                <!--title end here-->
+                <!--header start here-->
+                <div class="header">
+                    <div class="navg">
+                        <span class="menu"> <img src="images/icon.png" alt="" /></span>
+                        <ul class="res">
+                            <li style="padding: 21px 40px 24px 15px;">@Html.ActionLink("Home", "Index", "Home")</li>
+                            <li style="padding: 21px 40px 24px 15px;">
+                                <div class="dropdown">
+                                    <a class="dropbtn" href="#">Department</a><img src="~/images/arrow.png" style=" width: 16px; height: 18px;" />
+                                    <div class="dropdown-content">
+                                        @Html.ActionLink("Save Department", "Save", "Department")
+
+                                        @Html.ActionLink("View All Departments", "ShowDepartment", "Department")
+
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li style="padding: 21px 40px 24px 15px;">
+                                <div class="dropdown">
+                                    <a class="dropbtn" href="#">Course/Teacher</a><img src="~/images/arrow.png" style=" width: 16px; height: 18px;" />
+                                    <div class="dropdown-content">
+
+                                        @Html.ActionLink("Save Course", "Save", "Course")
+                                        @Html.ActionLink("Save Teacher", "Save", "Teacher")
+                                        @Html.ActionLink("Course Assign to Teacher", "Assign", "Teacher")
+
+
+                                        @Html.ActionLink("View Course Statistics", "CourseStatistics", "Course")
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li style="padding: 21px 40px 24px 15px;">
+                                <div class="dropdown">
+                                    <a class="dropbtn" href="#">Student</a><img src="~/images/arrow.png" style=" width: 16px; height: 18px;" />
+                                    <div class="dropdown-content">
+
+                                        @Html.ActionLink("Register Student", "Register", "Student")
+                                        @Html.ActionLink("Enroll In a Course", "EnrollInCourse", "Student")
+
+
+                                    </div>
+                                </div>
+
+                            </li>
+                            <li style="padding: 21px 40px 24px 15px;">
+                                <div class="dropdown">
+                                    <a class="dropbtn" href="#">Classroom</a><img src="~/images/arrow.png" style=" width: 16px; height: 18px;" />
+                                    <div class="dropdown-content">
+
+                                        @Html.ActionLink("Allocate Classrooms", "AllocateClassrooms", "ClassRoom")
+                                        @Html.ActionLink("View Class Schedule and Room Allocation Information", "CompleteClassSchedule", "ClassRoom")
+
+                                    </div>
+                                </div>
+
+                            </li>
+                            <li style="padding: 21px 40px 24px 15px;">
+                                <div class="dropdown">
+                                    <a class="dropbtn" href="#">Result</a><img src="~/images/arrow.png" style=" width: 16px; height: 18px;" />
+                                    <div class="dropdown-content">
+                                        @Html.ActionLink("Save Student Result", "SaveResult", "Student")
+                                        @Html.ActionLink("View Result", "ViewResult", "Student")
+
+                                    </div>
+                                </div>
+
+                            </li>
+                            <li style="padding: 21px 40px 24px 15px;">
+                                <div class="dropdown">
+                                    <a class="dropbtn" href="#">Unassign/ Unallocate </a><img src="~/images/arrow.png" style=" width: 16px; height: 18px;" />
+                                    <div class="dropdown-content">
+                                        @Html.ActionLink("Unassign All Courses", "UnAssignAllCourse", "Course")
+                                        @Html.ActionLink("Unallocate All Classrooms ", "UnallocateClassRoom", "ClassRoom")
+
+                                    </div>
+                                </div>
+
+                            </li>
+
+                        </ul>
+                        <script>
+                            $("span.menu").click(function () {
+                                $("ul.res").slideToggle("slow", function () {
+                                    // Animation complete.
+                                });
+                            });
+                        </script>
+                    </div>
+                    <!-- <div class="search">
+                        <input type="text" value="Site search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Site search';}"/>
+                        <input type="submit" value=""/>
+                    </div> -->
+                    <div class="clearfix"> </div>
+                </div>
+                <!--header end here-->
+                <!--banner start here-->
+                <div class="mainbody">
+
+
+                    @RenderBody()
+
+                </div>
+                <!--banner end here-->
+                <!--nunc dig start here-->
+                <!--information grid end here-->
+                <!--footer start here-->
+                <div class="footer" style="border-radius: 15px;">
+                    <div class="footer-main">
+                        @*<div class="footer-top">
+                                <div class="col-md-7 footer-grid">
+
+                                    <img src="images/setting.png" style="width: 40px;float: left;margin-right: 10px;" alt="" /><h3><u>Project Information</u></h3>
+
+                                    <table>
+                                        <tr>
+                                            <td>Project No</td>
+                                            <td> &nbsp: 02</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Project Name</td>
+                                            <td> &nbsp: University Course and Result Management System</td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="col-md-5 ">
+                                    <div class="groupinfo">
+
+                                        <img src="images/group.png" style="width: 29px;float: left;margin-right: 10px;" alt="" /> <h3><u>Group Information</u></h3>
+
+                                        <table>
+                                            <tr>
+                                                <td>Group Name</td>
+                                                <td>:   IIUC CODERS</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Members</td>
+                                                <td style="padding-top: 5px; padding-bottom: 5px;">
+                                                    :   128297- Kazi Shoaib
+                                                    <br />
+                                                    :   122481- Tonmoy Rudra
+                                                    <br />
+                                                    :   128797- Shaon Dey
+                                                    <br />
+                                                    :   129871- Talat Mahmud Sourave
+                                                </td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Batch NO</td>
+                                                <td>:   DN-20</td>
+                                            </tr>
+
+                                        </table>
+
+                                    </div>
+                                </div>
+
+                                <div class="clearfix"> </div>
+                            </div>*@
+                        <div class="footer-bottom">
+                            <p>Developed by : <a href="#">IIUC_CODERS </a></p>
+                            <p>
+                                Web App Development - Dot Net.
+                                Skill for Employment Investment Program.
+                                BASIS Institute of Technology & Management (BITM)
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    @*<script src="~/Scripts/jquery.min.js"></script>
+
+        <script src="~/Scripts/jquery.validate.js"></script>*@
+
+    <script src="~/Scripts/DataTables/jquery.dataTables.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            $('#dataTable').DataTable();
+
+            $("#saveform").validate({
+                rules: {
+                    Code: {
+                        required: true,
+                        minlength: 5
+                    },
+                    Name: "required",
+
+                    Cradit: {
+                        required: true,
+                        range: [0.5, 5.0],
+                        number: true
+
+                    },
+                    Description: "required",
+                    Department: "required",
+                    Semester: "required",
+                    Address: "required",
+                    Email: {
+                        required: true,
+                        email: true
+                    },
+                    Contact: {
+                        required: true,
+
+                        number: true
+                    },
+                    CreditTaken: {
+                        required: true,
+                        range: [0.5, 99],
+                        number: true
+                    },
+                    DepartmentId: "required",
+                    Designation: "required",
+
+
+
+                },
+                messages: {
+                    Code: {
+                        required: "Please Enter a Code",
+                        minlength: "Code must be 5 characters long",
+
+                    },
+                    Name: "Please Enter a Name",
+                    Cradit: {
+                        required: "Please Enter a Cradit",
+                    },
+                    Description: "Please Enter a Description",
+                    Department: "Please Enter a Department",
+                    Semester: "Please Enter a Semester",
+                    Address: "Please Enter a Address",
+                    Email: "Please enter a valid email Address",
+                    Contact: "Please enter a valid Contact No",
+
+
+
+                }
+            });
+
+
+
+        });
+    </script>
+
+
+</body>
+</html>

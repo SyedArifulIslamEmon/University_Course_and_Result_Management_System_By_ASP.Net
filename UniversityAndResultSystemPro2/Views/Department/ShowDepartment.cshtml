@@ -1,0 +1,39 @@
+﻿@using UniversityAndResultSystemPro2.Models
+@model List<Department>
+
+@{
+    ViewBag.Title = "ShowDepartment";
+    List<Department> departments = ViewBag.departments;
+}
+
+<h2 style="text-align: center">All Department List</h2>
+<div style="margin: 60px auto; margin-top: 109px;">
+
+    <table id="dataTable" class="display" cellspacing="0" width="800px">
+        <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name</th>
+
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Code</th>
+                <th>Name</th>
+
+            </tr>
+        </tfoot>
+        <tbody>
+            @foreach (Department aDepartment in departments)
+            {
+                <tr>
+                    <td>@aDepartment.Code</td>
+                    <td>@aDepartment.Name</td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>

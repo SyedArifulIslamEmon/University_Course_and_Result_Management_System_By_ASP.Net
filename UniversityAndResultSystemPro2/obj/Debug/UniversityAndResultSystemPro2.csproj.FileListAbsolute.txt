@@ -1,0 +1,560 @@
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll.config
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\WebGrease.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.csprojResolveAssemblyReference.cache
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Rotativa.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll.config
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.pdb
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Owin.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Rotativa.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\WebGrease.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.pdb
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.csprojResolveAssemblyReference.cache
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.dll
+C:\Users\Shoaib\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.pdb
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.pdb
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Owin.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Rotativa.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\WebGrease.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.pdb
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.dll
+C:\Users\Web App Develop .Net\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll.config
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Rotativa.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\WebGrease.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.csprojResolveAssemblyReference.cache
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.pdb
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll.config
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.pdb
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Web.Infrastructure.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Owin.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Rotativa.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\WebGrease.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.pdb
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.csprojResolveAssemblyReference.cache
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.dll
+G:\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll.config
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Rotativa.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\WebGrease.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.csprojResolveAssemblyReference.cache
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\prooject 2\New folder\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.pdb
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll.config
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.pdb
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Owin.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Rotativa.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\WebGrease.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.pdb
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.csprojResolveAssemblyReference.cache
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.dll
+C:\Users\dishaan\Desktop\Project 2\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.pdb
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll.config
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.pdb
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Web.Infrastructure.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Owin.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Rotativa.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\WebGrease.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.pdb
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.csprojResolveAssemblyReference.cache
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 Final\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.pdb
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll.config
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.pdb
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Web.Infrastructure.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Owin.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Rotativa.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\WebGrease.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.pdb
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.dll
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.pdb
+H:\BITM-DotNet\Practise\Project 2\Project 2 4.0 Final Alpha\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.csprojResolveAssemblyReference.cache
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll.config
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\UniversityAndResultSystemPro2.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Owin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Rotativa.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\WebGrease.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Helpers.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Mvc.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Optimization.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.Razor.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Deployment.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\System.Web.WebPages.Razor.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Newtonsoft.Json.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Antlr3.Runtime.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\EntityFramework.SqlServer.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.csprojResolveAssemblyReference.cache
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 2 5.0 Final Beta\UniversityAndResultSystemPro2\UniversityAndResultSystemPro2\obj\Debug\UniversityAndResultSystemPro2.pdb

@@ -1,0 +1,102 @@
+﻿@{
+    ViewBag.Title = "Save ";
+    string message = ViewBag.message;
+    string code = ViewBag.code;
+    string name = ViewBag.name;
+}
+
+@model UniversityAndResultSystemPro2.Models.Department
+
+@if (message == "yes")
+{
+    <div class="alert alert-success">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+
+        <strong>Success!</strong> Department Save Successfully.
+    </div>
+}
+else if (message == "no")
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Failed!</strong> Save Failed.
+    </div>
+}
+else if (message == "Code Not Unique")
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Failed!</strong> "@code" already have in your Department list.
+    </div>
+}
+else if (message == "Name Not Unique")
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Failed!</strong> "@name" already have in your Department list.
+    </div>
+}
+
+
+    @*<form id="saveform" role="form" data-toggle="validator" method="POST">
+            <div style="margin-left: 425px;">
+                <h1 style="font-size: 25px;">Save Department</h1>
+                <div class="form-group">
+
+                    <label for="code">Code:</label>
+                        <input type="text" class="form-control" placeholder="Code" name="code" id="code" pattern=".{2,7}" required title="2 to 7 characters">
+                </div>
+                <div class="form-group">
+                    <label for="Name">Name:</label>
+                    <input type="text" class="form-control" placeholder="Name" name="Name" id="Name" required>
+
+                </div>
+                <button type="submit" class="btn btn-primary" value="save">Save</button>
+            </div>
+
+        </form>*@
+
+    @using (Html.BeginForm())
+    {
+        <div style="margin-left: 425px;">
+            <h1 style="font-size: 25px;">Save Department</h1>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Code)
+                @Html.TextBoxFor(m => m.Code, new { @class = "form-control" ,@placeholder="Ex: CSE"})
+                @Html.ValidationMessageFor(m => m.Code)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Name)
+                @Html.TextBoxFor(m => m.Name, new { @class = "form-control", @placeholder = "Ex: Computer Science & Engineering" })
+                @Html.ValidationMessageFor(m => m.Name)
+
+            </div>
+            <button type="submit" class="btn btn-primary" value="save">Save</button>
+        </div>
+    }
+
+    @section scripts
+{
+
+        <script src="~/Scripts/jquery-3.1.0.js"></script>
+        <script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    }
+
+    @*<script src="~/Scripts/jquery.min.js"></script>
+        <script src="~/Scripts/bootstrap.min.js"></script>
+        <script src="~/Scripts/jquery-1.10.2.js"></script>
+        @*<script>
+            $('#saveform').submit(function (e) {
+                $('#messages').removeClass('hide').addClass('alert alert-success alert-dismissible').slideDown().show();
+                $('#messages_content').html('<h4>MESSAGE HERE</h4>');
+                $('#modal').modal('show');
+                e.preventDefault();
+            });
+        </script>*@
+
+
+
+    @*</body>
+        </html>*@
